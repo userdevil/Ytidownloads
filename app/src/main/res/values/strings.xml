@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ytidownloads</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="planets_array">
+        <item>mp3</item>
+        <item>aac</item>
+        <item>360</item>
+        <item>480</item>
+        <item>720</item>
+        <item>1080</item>
+        <item>4k</item>
+        <item>8k</item>
+    </string-array>
+
+</resources>

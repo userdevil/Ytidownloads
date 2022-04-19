@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "862599830498",
+    "project_id": "ytidownloads",
+    "storage_bucket": "ytidownloads.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862599830498:android:947df3f1d4e23bf79ef7bb",
+        "android_client_info": {
+          "package_name": "com.msdev.ytidownloads"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "862599830498-2uv2rb1n03l66t37vogq8u73gokci024.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO86dIq_FOwzKDcSvNYqL5DfJjRMux0d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "862599830498-2uv2rb1n03l66t37vogq8u73gokci024.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-1547967704776875~3189859566"
+    }
+  ],
+  "configuration_version": "1"
+}
